@@ -1,0 +1,8 @@
+.land {
+  fill: #222;
+}
+
+.state-boundary {
+  fill: none;
+  stroke: #fff;
+}
