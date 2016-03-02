@@ -8,8 +8,8 @@ body {
 
 div .map img {
 	position: absolute;
-	width: 70%;
-	top: 20px;
+	width: 10%;
+	top: 10px;
 	z-index: 999;
 }
 
